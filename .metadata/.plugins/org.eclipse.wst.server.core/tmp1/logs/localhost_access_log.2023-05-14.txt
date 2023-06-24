@@ -5,3 +5,10 @@
 0:0:0:0:0:0:0:1 - - [14/May/2023:00:13:58 +0200] "GET /favicon.ico HTTP/1.1" 404 762
 0:0:0:0:0:0:0:1 - - [14/May/2023:00:14:27 +0200] "GET /learn-java-with-me/java-coders?page=sign-in HTTP/1.1" 200 4750
 0:0:0:0:0:0:0:1 - - [14/May/2023:00:14:31 +0200] "GET /learn-java-with-me/user-login?login-email=otabekb595%40gmail.com&login-password=lldsds149 HTTP/1.1" 200 184
+127.0.0.1 - - [14/May/2023:00:15:11 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/May/2023:00:15:24 +0200] "GET /learn-java-with-me/ HTTP/1.1" 200 6261
+0:0:0:0:0:0:0:1 - - [14/May/2023:00:15:25 +0200] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/May/2023:00:15:27 +0200] "GET /learn-java-with-me/java-coders?page=sign-in HTTP/1.1" 200 4750
+0:0:0:0:0:0:0:1 - - [14/May/2023:00:15:29 +0200] "GET /learn-java-with-me/user-login?login-email=otabekb595%40gmail.com&login-password=lldsds149 HTTP/1.1" 200 184
+0:0:0:0:0:0:0:1 - - [14/May/2023:00:15:37 +0200] "GET /learn-java-with-me/java-coders?page=sign-up HTTP/1.1" 200 4987
+0:0:0:0:0:0:0:1 - - [14/May/2023:00:15:44 +0200] "GET /learn-java-with-me/user-signup?username=otabekb59jjjj&userEmail=otaboyev149%40gmail.com&userPassword=lldsds149 HTTP/1.1" 200 198

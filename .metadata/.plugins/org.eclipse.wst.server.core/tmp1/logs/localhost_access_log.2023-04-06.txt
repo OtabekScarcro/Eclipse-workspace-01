@@ -28,3 +28,6 @@
 0:0:0:0:0:0:0:1 - - [06/Apr/2023:03:25:09 +0200] "GET /Integrate_tamplete_with_project/home?page=home HTTP/1.1" 200 3805
 0:0:0:0:0:0:0:1 - - [06/Apr/2023:03:25:11 +0200] "GET /Integrate_tamplete_with_project/home?page=listusers HTTP/1.1" 200 3811
 0:0:0:0:0:0:0:1 - - [06/Apr/2023:03:25:16 +0200] "GET /Integrate_tamplete_with_project/home?page=home HTTP/1.1" 200 3805
+127.0.0.1 - - [06/Apr/2023:03:31:56 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:03:31:56 +0200] "GET /Setting_up_2/Demo HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [06/Apr/2023:03:32:35 +0200] "GET /Setting_up_2/Demo HTTP/1.1" 200 51

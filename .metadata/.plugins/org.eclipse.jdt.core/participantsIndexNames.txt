@@ -1,0 +1,41 @@
+INDEX VERSION 1.132
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2236571174.index
+\Learn Java With Me\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\702135800.index
+\shopping-cart\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3874690488.index
+\JSTL Demo\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\629080394.index
+\newOne\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3025036329.index
+\newOne\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3619986545.index
+\docs\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3616159487.index
+\JSTL SettingUp\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3949139790.index
+\Integrate tamplete with project\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3295483551.index
+\01\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3843746929.index
+\Hello JSP\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\999148992.index
+\shopping-cart\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2549566747.index
+\02\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1751947573.index
+\Integrate tamplete with project\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\690836647.index
+\I18N Project\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2383261094.index
+\JSTL Demo\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\843705076.index
+\newOne\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1166597261.index
+\Custom Tags\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\88039131.index
+\File upload form\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3445027676.index
+\newOne\src\main\java
+C:\Users\otabo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2588757340.index
+\Learn Java With Me\src\main\java

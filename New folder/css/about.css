@@ -1,0 +1,22 @@
+/* About me section */
+.about-me{
+    padding: 100px 0;
+}
+
+.about-me > div{
+    width: 50%;
+    float: left;
+}
+
+.about-me__image img{
+    width: 300px;
+}
+
+.about-me__description{
+    width: 80%;
+    font-size: 14px;
+    font-weight: 300;
+    color: #797979;
+    line-height: 27px;
+    margin-bottom: 40px;
+}

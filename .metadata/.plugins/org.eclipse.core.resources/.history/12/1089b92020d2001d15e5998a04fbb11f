@@ -1,0 +1,16 @@
+package org.javacoders;
+
+public class Demo2 {
+	public static void main(String[] args) {
+
+		String url = "jdbc:mysql://localhost:3306/users";
+		String username="Otabek";
+		String password="Scarcro149$";
+		String query="select * from users";
+		try {
+			Class.forName("com.mysql.cj.jdbc.Driver");
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

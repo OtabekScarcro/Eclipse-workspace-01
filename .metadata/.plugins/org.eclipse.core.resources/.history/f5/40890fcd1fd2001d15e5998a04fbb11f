@@ -1,0 +1,5 @@
+package org.javacoders;
+
+public class Demo2 {
+	String url = "jdbc:mysql://localhost:3306/users";
+}

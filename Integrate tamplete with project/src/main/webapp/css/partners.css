@@ -1,0 +1,65 @@
+/* Partners section */
+.partners{
+    padding-top: 150px;
+}
+
+.partners-card{
+    display: inline-block;
+    width: 30%;
+    margin-right: 20px;
+    box-sizing: border-box;
+    background-color: #f8faff;
+}
+
+.partners-card:hover{
+    box-shadow: 0px 10px 20px rgba(5,54,77,0.1);
+}
+
+.partners-card:hover .partners-card__info{
+    background-color: #ffffff;
+}
+
+.partners-card__image img{
+    width: 100%;
+}
+
+.partners-card__info{
+    margin-top: 0;
+    padding: 40px 30px 40px 30px;
+    color: #797979;
+}
+
+.partners-card__main-info span{
+    font-size: 14px;
+    margin-right: 30px;
+    font-weight: lighter;
+}
+
+.partners-card__info i{
+    margin-right: 5px;
+}
+
+.partners-card__title{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.partners-card__description{
+    font-size: 15px;
+    line-height: 27px;
+    font-weight: 300;
+    font-family: "Roboto",sans-serif;
+    color: #797979;
+}
+
+.partners-card__link{
+    font-size: 13px;
+    font-weight: 500;
+    color: #05364d;
+    text-decoration: none;
+}
+
+.partners-card__link:hover{
+    color: #ed239f;
+}
